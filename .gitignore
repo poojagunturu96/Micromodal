@@ -4,6 +4,7 @@
 package-lock.json
 yarn-error.log
 */.cache
+*/dist
 */screenshots
 .parcel-cache
 
